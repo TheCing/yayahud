@@ -1,4 +1,4 @@
-yayahud
+jumphud
 =============
 
 [![screenshot](http://i.imgur.com/k3mBAjT.jpg)](http://imgur.com/a/GKiZf)
